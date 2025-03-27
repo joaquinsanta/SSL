@@ -1,1 +1,1 @@
-# SSL
+Estoy utilizando el editor de codigo Visual Studio Code, e instale MSYS2 que utiliza el Mingw y me proporciona el compilador GCC, en su version 14.2.0.  La version de C que soporta es la C11
